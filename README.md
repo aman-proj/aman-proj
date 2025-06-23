@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that make me learn new stuff.
 - 📫 How to reach me through linkedin. 
 - 😄 Pronouns: he.
-- ⚡ Fun fact: 
+   
 
 <!---
 aman-proj/aman-proj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
