@@ -201,15 +201,12 @@ Both deserve a mental model first.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-630796274/)
-[![Twitter / X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://vintage-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman943186@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]()
+
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:0a0a0a&height=100&section=footer&text=ship%20or%20be%20shipped&fontSize=24&fontColor=8892b0&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=flat-square&label=Profile+Views" />
 
 </div>
