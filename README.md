@@ -9,7 +9,7 @@
 </a>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=180&text=AMAN%20KUMAR&fontSize=52&fontColor=00d9ff&fontAlignY=45&desc=%24%20whoami%20%E2%80%94%20Engineer.%20Builder.%20Agent%20Architect.&descSize=15&descAlignY=68&descColor=8b949e" width="100%"/>
+
 ![](https://img.shields.io/badge/Focus-AI%20Agents%20%26%20MCP-00d9ff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/DSA-500%2B%20Problems-ff6b6b?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/SIH-Finalist-ffd700?style=flat-square&labelColor=0d1117)
