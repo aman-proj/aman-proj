@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Engineer+%E2%86%92+AI+Systems+Builder;Architecting+Agents+That+Think+%26+Act;500%2B+DSA+%7C+Patterns+Over+Brute+Force;MERN+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+MCP+Servers;IIIT+Kottayam+%2727+%E2%80%94+Building+Before+Graduating" alt="Typing SVG" />
 </a>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px" style="object-fit: cover;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5d2F4NWZ6NHZzbWd3NXR5NXU3dTY4NmFka2JmeXJhOHl3OGNjbyZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/LaVp0AyqR5bGsC5Cte/giphy.gif" width="100%"/>
 <br/>
 
 ![](https://img.shields.io/badge/Focus-AI%20Agents%20%26%20MCP-00d9ff?style=flat-square&labelColor=0d1117)
